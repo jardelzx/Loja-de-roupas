@@ -1,0 +1,41 @@
+img{
+    width: 400px;
+    height: 400px; 
+     border-radius: 50%; 
+     overflow: hidden; 
+     margin-top: 20px;
+     margin-right: 60px;
+     border: 2px solid black;
+     }
+#dov {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+header {
+    height: 250px;
+    background: mediumblue;
+
+}
+
+body {
+     margin: 0; 
+        background-color:slategrey;
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        }
+    h1, h2 {
+            color:white;
+
+        }
+    ul {
+            list-style-type: none;
+            padding: 0;
+        }
+    ul li {
+            margin-bottom: 5px;
+        }
+
+
+       
